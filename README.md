@@ -3,3 +3,9 @@ Foi planejado com o auxílio de diagramas UML, incluindo diagrama de classes, di
 
 - Ao ser iniciado, o sistema cria automaticamente um administrador padrão (usuário: adm0, senha: 0)
 - python -m pip install ttkbootstrap
+
+Software feito para a disciplina UFSC INE5608 - Análise e Projeto de Sistemas
+Com a participação de
+- Cristiane Maragno
+- Jenifer Ovejero
+- Mariana Steffen
