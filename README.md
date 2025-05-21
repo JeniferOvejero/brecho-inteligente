@@ -9,3 +9,5 @@ Com a participação de
 - Cristiane Maragno
 - Jenifer Ovejero
 - Mariana Steffen
+
+![image](https://github.com/user-attachments/assets/709199af-ed37-4ea0-9ea0-d06ba034ce01)
